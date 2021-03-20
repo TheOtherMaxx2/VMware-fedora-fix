@@ -4,7 +4,11 @@ Just a script I found and modified to make VMware work on Fedora (unsupported ac
 cd /home/[yourfedorasessionusernamehere]/Downloads    
 
 if you just downloaded it here.
-Then type   
+Then type 
+
+chmod +x fix_vmware_kernel_modules
+
+Then
 
 ./fix_vmware_kernel_modules
 
